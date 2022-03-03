@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "ERC-20",
+    "version": "0.5.2",
+    "description": "ERC-20代币合约"
+  },
+  {
+    "id": "2",
+    "name": "testfile",
+    "version": "0.6.2",
+    "description": "数据保护测试合约"
+  },
+  {
+    "id": "3",
+    "name": "testfile2",
+    "version": "0.6.2",
+    "description": "计算保护测试合约"
+  },
+  {
+    "id": "4",
+    "name": "testfile3",
+    "version": "0.6.2",
+    "description": "混合模式测试合约"
+  },
+  {
+    "id": "5",
+    "name": "wrongfile",
+    "version": "0.6.2",
+    "description": "含错误代码合约"
+  }
+]
